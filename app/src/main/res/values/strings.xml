@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Veri Kullanımı Takibi</string>
+    <string name="permission_required_title">Kullanım Erişimi İzni Gerekli</string>
+    <string name="permission_required_desc">Cihazınızdaki uygulamaların Mobil ve Wi-Fi veri tüketimini (download, upload, ön plan ve arka plan) ayrıntılı olarak listeleyebilmek için Android sisteminin "Kullanım Erişimi" (Usage Access) iznine ihtiyaç duyulmaktadır.\n\nHonor (MagicOS) cihazınızda açılan ayarlar sayfasından bu uygulamayı bularak izin vermeniz gerekmektedir.</string>
+    <string name="grant_permission">İzin Ver / Ayarları Aç</string>
+    <string name="dismiss">Kapat</string>
+    <string name="refresh">Yenile</string>
+    <string name="total_usage">Toplam Tüketim</string>
+    <string name="mobile_data">Mobil Veri</string>
+    <string name="wifi_data">Wi-Fi</string>
+    <string name="today">Bugün</string>
+    <string name="last_7_days">Son 7 Gün</string>
+    <string name="this_month">Bu Ay</string>
+    <string name="custom_range">Özel Aralık</string>
+    <string name="all_networks">Tümü</string>
+    <string name="only_mobile">Mobil</string>
+    <string name="only_wifi">Wi-Fi</string>
+    <string name="search_apps">Uygulama ara…</string>
+    <string name="sort_usage">En Çok Tüketenler</string>
+    <string name="sort_name">İsme Göre</string>
+    <string name="download">İndirilen (Rx)</string>
+    <string name="upload">Yüklenen (Tx)</string>
+    <string name="foreground">Ön Plan</string>
+    <string name="background">Arka Plan</string>
+    <string name="open_app_settings">Uygulama Bilgisi / Ayarlar</string>
+</resources>
